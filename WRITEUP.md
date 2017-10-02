@@ -2,8 +2,6 @@
 
 ## Writeup
 
----
-
 *Finding Lane Lines on the Road*
 
 The goals/steps of this project are the following:
@@ -31,12 +29,12 @@ Having calculated slopes and offsets, I could extrapolate coordinates of the lef
 
 Examples of pipeline results can be seen on the following images: 
 
-![solidWhiteCurve][./test_image_output/solidWhiteCurve.jpg]
-![solidWhiteRight][[./test_image_output/solidWhiteRight.jpg]
-![solidYellowCurve2][[./test_image_output/solidYellowCurve2.jpg]
-![solidYellowCurve][[./test_image_output/solidYellowCurve.jpg]
-![solidYellowLeft][[./test_image_output/solidYellowLeft.jpg]
-![whiteCarLaneSwitch][[./test_image_output/whiteCarLaneSwitch.jpg]
+![solidWhiteCurve](./test_images_output/solidWhiteCurve.jpg)
+![solidWhiteRight](./test_images_output/solidWhiteRight.jpg)
+![solidYellowCurve2](./test_images_output/solidYellowCurve2.jpg)
+![solidYellowCurve](./test_images_output/solidYellowCurve.jpg)
+![solidYellowLeft](./test_images_output/solidYellowLeft.jpg)
+![whiteCarLaneSwitch](./test_images_output/whiteCarLaneSwitch.jpg)
 
 ### 2. Potential shortcomings with the current pipeline
 
