@@ -29,12 +29,14 @@ Having calculated slopes and offsets, I could extrapolate coordinates of the lef
 
 Examples of pipeline results can be seen on the following images: 
 
-![solidWhiteCurve](./test_images_output/solidWhiteCurve.jpg)
-![solidWhiteRight](./test_images_output/solidWhiteRight.jpg)
-![solidYellowCurve2](./test_images_output/solidYellowCurve2.jpg)
-![solidYellowCurve](./test_images_output/solidYellowCurve.jpg)
-![solidYellowLeft](./test_images_output/solidYellowLeft.jpg)
-![whiteCarLaneSwitch](./test_images_output/whiteCarLaneSwitch.jpg)
+![](./test_images_output/solidWhiteCurve.jpg)
+![](./test_images_output/solidWhiteRight.jpg)
+![](./test_images_output/solidYellowCurve2.jpg)
+![](./test_images_output/solidYellowCurve.jpg)
+![](./test_images_output/solidYellowLeft.jpg)
+![](./test_images_output/whiteCarLaneSwitch.jpg)
+
+Examples of the pipeline detecting lines on a video can be seen [here (YouTube)](https://youtu.be/wHSyh40-ZW4) and [here (YouTube)](https://youtu.be/8cYoHIapbDY).
 
 ### 2. Potential shortcomings with the current pipeline
 
