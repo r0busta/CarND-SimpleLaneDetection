@@ -1,7 +1,9 @@
 # CarND-SimpleLaneDetection
 
 Term 1
+
 Project 1
+
 Udacity Self-Driving Car Engineer Nanodegree
 
 **Project summary:** *Finding Lane Lines on the Road*
